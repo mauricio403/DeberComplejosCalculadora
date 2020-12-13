@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\bin\Debug\netcoreapp3.1\DeberComplejosApp.exe
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\bin\Debug\netcoreapp3.1\DeberComplejosApp.deps.json
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\bin\Debug\netcoreapp3.1\DeberComplejosApp.runtimeconfig.json
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\bin\Debug\netcoreapp3.1\DeberComplejosApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\bin\Debug\netcoreapp3.1\DeberComplejosApp.dll
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\bin\Debug\netcoreapp3.1\DeberComplejosApp.pdb
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\bin\Debug\netcoreapp3.1\CalculadoraLogica.dll
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\bin\Debug\netcoreapp3.1\CalculadoraLogica.pdb
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\obj\Debug\netcoreapp3.1\DeberComplejosApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\obj\Debug\netcoreapp3.1\DeberComplejosApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\obj\Debug\netcoreapp3.1\DeberComplejosApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\obj\Debug\netcoreapp3.1\DeberComplejosApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\obj\Debug\netcoreapp3.1\DeberComplejosApp.csproj.CopyComplete
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\obj\Debug\netcoreapp3.1\DeberComplejosApp.dll
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\obj\Debug\netcoreapp3.1\DeberComplejosApp.pdb
+C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\DeberComplejosApp\obj\Debug\netcoreapp3.1\DeberComplejosApp.genruntimeconfig.cache
