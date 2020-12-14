@@ -61,7 +61,7 @@ namespace calculadoraComplejoTest
 
         [TestMethod]
 
-        /*public void DivisionComplejos()
+        public void DivisionComplejos()
         {
             var primerComplejo = new Complejo(6, 5);
             var segundoComplejo = new Complejo(5, 4);
@@ -74,7 +74,7 @@ namespace calculadoraComplejoTest
             Assert.AreEqual(resultadoEsperado.Real, resultadoObtenido.Real);
 
             Assert.AreEqual(resultadoEsperado.Imaginaria, resultadoObtenido.Imaginaria);
-        }*/
+        }
 
         public void multiplicacionPorescalar()
         {

@@ -39,7 +39,7 @@ namespace CalculadoraLogica
             return nuevoComplejo;
         }
 
-        /*public Complejo Dividir(Complejo primerNumero, Complejo segundoNumero)
+        public Complejo Dividir(Complejo primerNumero, Complejo segundoNumero)
         {
             //Creacion de la expresion conjugada
             var imaginariaConjugada = segundoNumero.Imaginaria * -1;
@@ -75,7 +75,7 @@ namespace CalculadoraLogica
             return nuevocomplejo;
 
 
-        }*/
+        }
 
         public Complejo multiplicacionEscalar(double numero, Complejo primerNumero)
         {
