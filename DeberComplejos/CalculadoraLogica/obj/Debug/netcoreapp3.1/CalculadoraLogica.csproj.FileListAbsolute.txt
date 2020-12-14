@@ -1,7 +1,6 @@
 C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\CalculadoraLogica\bin\Debug\netcoreapp3.1\CalculadoraLogica.deps.json
 C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\CalculadoraLogica\bin\Debug\netcoreapp3.1\CalculadoraLogica.dll
 C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\CalculadoraLogica\bin\Debug\netcoreapp3.1\CalculadoraLogica.pdb
-C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\CalculadoraLogica\obj\Debug\netcoreapp3.1\CalculadoraLogica.csprojAssemblyReference.cache
 C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\CalculadoraLogica\obj\Debug\netcoreapp3.1\CalculadoraLogica.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\CalculadoraLogica\obj\Debug\netcoreapp3.1\CalculadoraLogica.AssemblyInfo.cs
 C:\Users\User\Desktop\Deber23Complejos\DeberComplejosCalculadora\DeberComplejos\CalculadoraLogica\obj\Debug\netcoreapp3.1\CalculadoraLogica.csproj.CoreCompileInputs.cache
